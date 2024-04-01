@@ -1,9 +1,5 @@
 # Alvnvnc
-```
-⬆️ (Replace above with your app's name)
-```
 
-Description of the app ...
 
 ## Demo App
 
